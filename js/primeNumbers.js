@@ -14,7 +14,7 @@ function findPrimeNumbers(numbers) {
 }
 
 // the below code is my test cases
-let myTestCases = [10, 12, 13, 100, 30, 43, 55, 57, 101] 
+let myTestCases = [10, 12, 13] 
 
 let response = findPrimeNumbers(myTestCases) 
 document.write('prime numbers are: ',response)

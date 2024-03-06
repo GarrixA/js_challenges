@@ -8,7 +8,7 @@ function inplaceReverse(array) {
 }
 
 
-let myTestCases = ['mt', 'ft', 'ht', 'gt']
+let myTestCases = ['mt', 'ft', 'ht', 'gt','hu', 'je']
 let results = inplaceReverse(myTestCases)
 
 document.write('inplace reverse: ',results)

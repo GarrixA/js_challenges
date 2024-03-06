@@ -55,7 +55,8 @@ let identities = [
     "Alian Dwine, 22, male",
     "Patrick wyne, 33, male",
     "Patrick wyne, 10, trans",
-    "Patrick wyne, 40, non-binary"
+    "Patrick wyne, 40, non-binary",
+    "Patrick wyne, 30, prefer-not-to-say"
 ];
 
 let organizedData = organizeIdentities(identities);

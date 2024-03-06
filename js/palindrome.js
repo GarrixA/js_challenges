@@ -12,7 +12,7 @@ function checkPalindrome(str){
   }
   
   
-  let myTestCases = 'ojajo' 
+  let myTestCases = 'ojajo ojajo' 
 let response =  checkPalindrome(myTestCases)
 document.write(response)
   
